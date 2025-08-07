@@ -3,8 +3,12 @@ Traffic Sign Recognition (TSR) using Machine Learning is a popular computer visi
  Concepts Involved
  
 Image Classification
+
 Convolutional Neural Networks (CNN)
+
 Computer Vision (OpenCV)
+
 Dataset Preprocessing
+
 Model Training and Evaluation
 
